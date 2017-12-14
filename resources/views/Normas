@@ -1,0 +1,16 @@
+sto se lo quita aluser name
+
+//esto es para realizar llamado de variables
+{{-- <h1>Usuarios</h1> --}}
+	{{-- <h1><?php echo e($title)?></h1> --}}
+	{{-- <h1><?= e($title)?></h1> --}}
+
+	//esto seria para usar funicones ya definidas
+
+	
+	{{-- <ul> --}}
+		{{-- <?php foreach ($users as $user): ?> --}}
+			{{-- <li><?php echo e($user) ?></li> --}}
+			{{-- <li><?= e($user) ?></li> --}}
+		{{-- <?php endforeach; ?> --}}
+	{{-- </ul> --}}
